@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Mindjot",
+  "description": "Take notes, ideas, and inspirations from your favorite websites.",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
